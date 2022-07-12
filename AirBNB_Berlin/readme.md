@@ -1,5 +1,7 @@
 # Smart AirBnB booking in Berlin
 
+![Tux, the Linux mascot](https://github.com/ChristianHallerX/Analytics_Projects/blob/main/AirBNB_Berlin/berlin_price_map.png)
+
 <a href="https://www.christianhaller.me/blog/projectblog/2020-09-21-Berlin_AirBnB/" target="_blank">Read full text on website.</a><br>
 
 >Kitchen – Modern with stone counters, European wood cabinetry, professional series Frigidaire kitchen appliances. Includes dishwasher, garbage disposal, Kuerig coffee machine, Cuisinart toaster oven, electric kettle and all the cookware necessary to make a gourmet meal.
