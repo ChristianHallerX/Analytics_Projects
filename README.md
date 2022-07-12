@@ -9,29 +9,29 @@ For a more contents visit https://www.christianhaller.me/
 
 ### Machine Learning
 
-- [Equinor Volve LogML](https://github.com/ChristianHallerX/Analytics_Projectsup/tree/main/Equinor_Volve_LogML): Predicting missing geophysical logs from an open real-world dataset.<br/>Modules: Scikit-Learn.
+- [Equinor Volve LogML](https://github.com/ChristianHallerX/DataScienceProjects/tree/master/Equinor_Volve_LogML): Predicting missing geophysical logs from an open real-world dataset.<br/>Modules: Scikit-Learn.
 
-- [Detecting Parkinson’s Disease](https://github.com/ChristianHallerX/Analytics_Projects/blob/main/Detecting_Parkinsons.ipynb): Classifying speech recordings of PD patients and healthy candidates.<br/>Modules: XGBoost.
+- [Detecting Parkinson’s Disease](https://github.com/ChristianHallerX/DataScienceProjects/blob/master/Detecting_Parkinsons.ipynb): Classifying speech recordings of PD patients and healthy candidates.<br/>Modules: XGBoost.
 
-- [SEG Facies Classifiacation](https://github.com/ChristianHallerX/Analytics_Projects/tree/main/SEG_Facies_Classification): Training a model to predict sedimentary facies in a Kansas gas field for the classic SEG competition.<br/>Modules: XGBoost, SciKit-Optimize.
+- [SEG Facies Classifiacation](https://github.com/ChristianHallerX/DataScienceProjects/tree/master/SEG_Facies_Classification): Training a model to predict sedimentary facies in a Kansas gas field for the classic SEG competition.<br/>Modules: XGBoost, SciKit-Optimize.
 
-- [House Sales and Price Prediction in King County (Seattle)](https://github.com/ChristianHallerX/Analytics_Projects/blob/main/House_Sales_and_Price_Prediction_King_County(Seattle).ipynb): The project explores different house sales features and regression modelling techniques for optimizing price prediction.<br/>Modules: SciKit-Learn.
+- [House Sales and Price Prediction in King County (Seattle)](https://github.com/ChristianHallerX/DataScienceProjects/blob/master/House_Sales_and_Price_Prediction_King_County(Seattle).ipynb): The project explores different house sales features and regression modelling techniques for optimizing price prediction.<br/>Modules: SciKit-Learn.
 	
-- [Permeability Prediction from Thin Sections](https://github.com/ChristianHallerX/Analytics_Projects/blob/main/RockPermeabilityPrediction/Reservoir_Permeability_WatsonStudio.ipynb): Evaluation of various Machine Learning/Deep Learning using Cross Validation algorithms trained on reservoir-rock thin sections. Deployment on cloud for inference.<br/>Modules: SciKit-Learn, TensorFlow, Keras, NumPy, Pandas, Matplotlib, Seaborn.
+- [Permeability Prediction from Thin Sections](https://github.com/ChristianHallerX/DataScienceProjects/blob/master/RockPermeabilityPrediction/Reservoir_Permeability_WatsonStudio.ipynb): Evaluation of various Machine Learning/Deep Learning using Cross Validation algorithms trained on reservoir-rock thin sections. Deployment on cloud for inference.<br/>Modules: SciKit-Learn, TensorFlow, Keras, NumPy, Pandas, Matplotlib, Seaborn.
 	
-- [Sonar (chirp) Data Classification of Underwater Mines and Rocks](https://github.com/ChristianHallerX/Analytics_Projects/blob/main/Sonar_classification_NN_GridSearch.ipynb): Train neural networks on sonar data. Prediction will distinguish two classes: rock and mine (i.e., metal surface). Use various neural network designs and a grid searches on each design to find an optimal model.<br/>Modules: SciKit-Learn, TensorFlow, Keras, NumPy, Pandas, Matplotlib.
+- [Sonar (chirp) Data Classification of Underwater Mines and Rocks](https://github.com/ChristianHallerX/DataScienceProjects/blob/master/Sonar_classification_NN_GridSearch.ipynb): Train neural networks on sonar data. Prediction will distinguish two classes: rock and mine (i.e., metal surface). Use various neural network designs and a grid searches on each design to find an optimal model.<br/>Modules: SciKit-Learn, TensorFlow, Keras, NumPy, Pandas, Matplotlib.
 	
-- [Time Series Modeling - Sunspot Activity](https://github.com/ChristianHallerX/Analytics_Projects/blob/main/Sun_Spot_Activity_TimeSeries.ipynb): The Sunspot Activity project examines making time series predictions using LSTM and other deep learning networks. Sunspots are dark spots on the sun, associated with lower temperature that were recorded scientifically since the 1700s.<br/>Modules: TensorFlow, Keras, NumPy, Pandas, Matplotlib.
+- [Time Series Modeling - Sunspot Activity](https://github.com/ChristianHallerX/DataScienceProjects/blob/master/Sun_Spot_Activity_TimeSeries.ipynb): The Sunspot Activity project examines making time series predictions using LSTM and other deep learning networks. Sunspots are dark spots on the sun, associated with lower temperature that were recorded scientifically since the 1700s.<br/>Modules: TensorFlow, Keras, NumPy, Pandas, Matplotlib.
 	
-- [Brent Crude Oil price prediction with LSTM](https://github.com/ChristianHallerX/Analytics_Projects/blob/main/Brent_crude_prediction.ipynb): Price time-series modeling with LSTM and comparison of performance of Mean Absolute Error and Mean Square Error.<br/>Modules: TensorFlow, Keras.	
+- [Brent Crude Oil price prediction with LSTM](https://github.com/ChristianHallerX/DataScienceProjects/blob/master/Brent_crude_prediction.ipynb): Price time-series modeling with LSTM and comparison of performance of Mean Absolute Error and Mean Square Error.<br/>Modules: TensorFlow, Keras.	
 
 
 
 ### Natural Language Processing
 
-- [Three-Way Sentiment Analysis for Twitter Tweets](https://github.com/ChristianHallerX/Analytics_Projects/blob/main/Three-Way%20Sentiment%20Analysis%20for%20Tweets.ipynb): Twitter sentiment analysis (positive, negative, neutral) classification model for tweets, without using NLTK's sentiment analysis engine.<br/>Modules: NLTK, SciKit-Learn.
+- [Three-Way Sentiment Analysis for Twitter Tweets](https://github.com/ChristianHallerX/DataScienceProjects/blob/master/Three-Way%20Sentiment%20Analysis%20for%20Tweets.ipynb): Twitter sentiment analysis (positive, negative, neutral) classification model for tweets, without using NLTK's sentiment analysis engine.<br/>Modules: NLTK, SciKit-Learn.
 	
-- [Two-Way IMDB Film Database Sentiment Analysis](https://github.com/ChristianHallerX/Analytics_Projects/blob/main/Three-Way%20Sentiment%20Analysis%20for%20Tweets.ipynb): Analyze 25,000 movie reviews in IMDB if positive (1) or negative (0) sentiment with a relatively simple LSTM (Recurrent Neural Network).<br/>Modules: TensorFlow, Keras.
+- [Two-Way IMDB Film Database Sentiment Analysis](https://github.com/ChristianHallerX/DataScienceProjects/blob/master/Three-Way%20Sentiment%20Analysis%20for%20Tweets.ipynb): Analyze 25,000 movie reviews in IMDB if positive (1) or negative (0) sentiment with a relatively simple LSTM (Recurrent Neural Network).<br/>Modules: TensorFlow, Keras.
 	
 - [Medical Chatbot with NLTK](https://github.com/ChristianHallerX/Analytics_Projects/blob/main/Medical_Chatbot_with_NLTK_main.ipynb): Ingest communication and responses to train an NLP model. Then implement a GUI to make inferences and interact with the catbot and get respones.<br/>Modules: NLTK, TensorFlow, Keras, Numpy, tkinter.
 	
