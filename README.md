@@ -33,32 +33,32 @@ For a more contents visit https://www.christianhaller.me/
 	
 - [Two-Way IMDB Film Database Sentiment Analysis](https://github.com/ChristianHallerX/DataScienceProjects/blob/master/Three-Way%20Sentiment%20Analysis%20for%20Tweets.ipynb): Analyze 25,000 movie reviews in IMDB if positive (1) or negative (0) sentiment with a relatively simple LSTM (Recurrent Neural Network).<br/>Modules: TensorFlow, Keras.
 	
-- [Medical Chatbot with NLTK](https://github.com/ChristianHallerX/DataScienceProjects/blob/master/Medical_Chatbot_with_NLTK_main.ipynb): Ingest communication and responses to train an NLP model. Then implement a GUI to make inferences and interact with the catbot and get respones.<br/>Modules: NLTK, TensorFlow, Keras, Numpy, tkinter.
+- [Medical Chatbot with NLTK](https://github.com/ChristianHallerX/Analytics_Projects/blob/main/Medical_Chatbot_with_NLTK_main.ipynb): Ingest communication and responses to train an NLP model. Then implement a GUI to make inferences and interact with the catbot and get respones.<br/>Modules: NLTK, TensorFlow, Keras, Numpy, tkinter.
 	
 
 
 ### Data Analysis and Visualisation
 
-- [Smart AirBnB booking in Berlin (dataset 2020-08-30)](https://github.com/ChristianHallerX/DataScienceProjects/blob/master/AirBNB_Berlin.ipynb): Analysis of the price variability in Berlin's AirBnB listings scraped in August 2020. A huge data set. Which district, which amenities, and what time of the year are best value?.<br/>Modules: Pandas, Matplotlib, Seaborn, Scikit-Learn.
+- [Smart AirBnB booking in Berlin (dataset 2020-08-30)](https://github.com/ChristianHallerX/Analytics_Projects/blob/main/AirBNB_Berlin.ipynb): Analysis of the price variability in Berlin's AirBnB listings scraped in August 2020. A huge data set. Which district, which amenities, and what time of the year are best value?.<br/>Modules: Pandas, Matplotlib, Seaborn, Scikit-Learn.
 
-- [Exploring US Economic Data with a Dashboard](https://github.com/ChristianHallerX/DataScienceProjects/blob/master/Exploring_US_Economic_Data_with_Dashboard.ipynb): This project intents to visualize simple time-series data in a dashboard and makes it permanently available in an S3 bucket.<br/>Modules: Bokeh.
+- [Exploring US Economic Data with a Dashboard](https://github.com/ChristianHallerX/Analytics_Projects/blob/main/Exploring_US_Economic_Data_with_Dashboard.ipynb): This project intents to visualize simple time-series data in a dashboard and makes it permanently available in an S3 bucket.<br/>Modules: Bokeh.
 	
-- [Toronto Neighborhoods Analysis](https://github.com/ChristianHallerX/DataScienceProjects/blob/master/Toronto_Neighborhoods_Analysis.ipynb): The project explores the Wikipedia data on Toronto (Canada) neighbourhoods with the post code M and will create labelled, interactive maps.<br/>Modules: Pandas, BeautifulSoup, Folium.
+- [Toronto Neighborhoods Analysis](https://github.com/ChristianHallerX/Analytics_Projects/blob/main/Toronto_Neighborhoods_Analysis.ipynb): The project explores the Wikipedia data on Toronto (Canada) neighbourhoods with the post code M and will create labelled, interactive maps.<br/>Modules: Pandas, BeautifulSoup, Folium.
 	
-- [Shopping Mall development in Charlotte, North Carolina, U.S.A.](https://github.com/ChristianHallerX/DataScienceProjects/blob/master/ShoppingMallDevelopment/Charlotte_new_mall.ipynb): City and Foursquare data on shopping malls is compared and knn-clustered by shopping-mall density per neighborhood to offer insight where new shopping malls may be a good fit.<br/>Modules: Pandas, BeautifulSoup, SciKit-Learn, Foursquare-API, ESRI geocoding, Folium.
+- [Shopping Mall development in Charlotte, North Carolina, U.S.A.](https://github.com/ChristianHallerX/Analytics_Projects/blob/main/ShoppingMallDevelopment/Charlotte_new_mall.ipynb): City and Foursquare data on shopping malls is compared and knn-clustered by shopping-mall density per neighborhood to offer insight where new shopping malls may be a good fit.<br/>Modules: Pandas, BeautifulSoup, SciKit-Learn, Foursquare-API, ESRI geocoding, Folium.
 	
-- [Market Analysis for Tech Stocks](https://github.com/ChristianHallerX/DataScienceProjects/blob/master/Stock_Market_Analysis.ipynb): Ingest, visualize, evaluate risk, and Monte-Carlo simulate prices for some technology stocks: Apple, Google, Microsoft, Amazon.<br/>Modules: Pandas, Numpy, Matplotlib, Seaborn.
+- [Market Analysis for Tech Stocks](https://github.com/ChristianHallerX/Analytics_Projects/blob/main/Stock_Market_Analysis.ipynb): Ingest, visualize, evaluate risk, and Monte-Carlo simulate prices for some technology stocks: Apple, Google, Microsoft, Amazon.<br/>Modules: Pandas, Numpy, Matplotlib, Seaborn.
 	
-- [911 Calls Exploration (dataset 2020-07-29)](https://github.com/ChristianHallerX/DataScienceProjects/blob/master/911_Calls.ipynb): This exploration will analyze the emergency call (911) dataset from Kaggle containing Fire, Traffic, Emergency Medical Services (EMS) incidents for Montgomery County, Pennsylvania.<br/>Modules: Pandas, Matplotlib, Seaborn.
+- [911 Calls Exploration (dataset 2020-07-29)](https://github.com/ChristianHallerX/Analytics_Projects/blob/main/911_Calls.ipynb): This exploration will analyze the emergency call (911) dataset from Kaggle containing Fire, Traffic, Emergency Medical Services (EMS) incidents for Montgomery County, Pennsylvania.<br/>Modules: Pandas, Matplotlib, Seaborn.
 	
 	
 	
 ### Computer Vision
 
-- [A simple model for Dogs vs. Cats Convolutional Neuronal Network (CNN) Part I](https://github.com/ChristianHallerX/DataScienceProjects/blob/master/TF_CatsVsDogsI.ipynb): A 2,000 images dataset of cat and dogs pictures from Kaggle trained for 2-category classification.<br/>Modules: TensorFlow, Keras.
+- [A simple model for Dogs vs. Cats Convolutional Neuronal Network (CNN) Part I](https://github.com/ChristianHallerX/Analytics_Projects/blob/main/TF_CatsVsDogsI.ipynb): A 2,000 images dataset of cat and dogs pictures from Kaggle trained for 2-category classification.<br/>Modules: TensorFlow, Keras.
 	
-- [A simple model for Dogs vs. Cats Convolutional Neuronal Network (CNN) Part II](https://github.com/ChristianHallerX/DataScienceProjects/blob/master/TF_CatsVsDogsII.ipynb): This project expands on Part I with transfer learning from publicly-available neural net Inception V3.<br/>Modules: TensorFlow, Keras.
+- [A simple model for Dogs vs. Cats Convolutional Neuronal Network (CNN) Part II](https://github.com/ChristianHallerX/Analytics_Projects/blob/main/TF_CatsVsDogsII.ipynb): This project expands on Part I with transfer learning from publicly-available neural net Inception V3.<br/>Modules: TensorFlow, Keras.
 	
-- [Drowsiness Detection in Real Time](https://github.com/ChristianHallerX/DataScienceProjects/blob/master/Drowsiness_detection_main.ipynb): Detect closed eyes in real-time video footage, such as a webcam feed.<br/>Modules: OpenCV.
+- [Drowsiness Detection in Real Time](https://github.com/ChristianHallerX/Analytics_Projects/blob/main/Drowsiness_detection_main.ipynb): Detect closed eyes in real-time video footage, such as a webcam feed.<br/>Modules: OpenCV.
 	
-- [Image Mulitclass Classification in TensorFlow: Rock - Paper - Scissors](https://github.com/ChristianHallerX/DataScienceProjects/blob/master/TensorFlow_rock_paper_scissors.ipynb): A deep-learning model predicts if you are showing it a Rock-hand, Paper-hand, or Scissor-hand. Trained with computer-generated image data.<br/>Modules: TensorFlow, Keras, Matplotlib.
+- [Image Mulitclass Classification in TensorFlow: Rock - Paper - Scissors](https://github.com/ChristianHallerX/Analytics_Projects/blob/main/TensorFlow_rock_paper_scissors.ipynb): A deep-learning model predicts if you are showing it a Rock-hand, Paper-hand, or Scissor-hand. Trained with computer-generated image data.<br/>Modules: TensorFlow, Keras, Matplotlib.
